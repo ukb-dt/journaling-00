@@ -16,7 +16,7 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-# [00-A](https://ukb-dt.github.io/mcgilchrist-CC/)
+# [00-A](https://ukb-dt.github.io/journaling-01/)
 Is journaling a sort of Prigogine dissipation: "getting to the bottom of things", not tekeologically, but as emergent … towards an attractor?
 # 01
 That's an intriguing analogy. There's something genuinely resonant about mapping journaling onto dissipative structures, though it requires some conceptual stretching.
