@@ -16,6 +16,12 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+> *It’s written as if future readers,*         
+> *Adversarial readers, bored readers, and*             
+> *Malicious readers are all part of the environment.*       
+> *The text assumes it will be stress-tested.*         
+> -G
+
 # [00-A](https://ukb-dt.github.io/journaling-01/)
 Is journaling a sort of Prigogine dissipation: "getting to the bottom of things", not tekeologically, but as emergent … towards an attractor?
 # 01
