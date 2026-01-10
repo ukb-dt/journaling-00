@@ -24,7 +24,7 @@
 
 # [00-A](https://ukb-dt.github.io/journaling-01/)
 Is journaling a sort of Prigogine dissipation: "getting to the bottom of things", not tekeologically, but as emergent … towards an attractor?
-# 01
+# [01](https://ukb-dt.github.io/journaling-01/)
 That's an intriguing analogy. There's something genuinely resonant about mapping journaling onto dissipative structures, though it requires some conceptual stretching.
 
 In Prigogine's framework, dissipative structures maintain themselves far from equilibrium by exchanging energy/matter with their environment—they're organized through the very process of dissipation. The system isn't driven toward a predetermined endpoint but rather self-organizes around attractors that emerge from the dynamics themselves.
