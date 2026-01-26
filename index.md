@@ -17,7 +17,7 @@
 </script>
 
 > *It’s written as if future readers,*         
-> *Adversarial readers, bored readers, and*             
+> *[Adversarial](https://eplnm.github.io/marx-00/) readers, bored readers, and*             
 > *Malicious readers are all part of the environment.*       
 > *The text assumes it will be stress-tested.*         
 > -G
